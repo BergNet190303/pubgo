@@ -1,4 +1,4 @@
-package publice
+package pubgo
 
 import (
 	"github.com/astaxie/beego/httplib"

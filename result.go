@@ -1,4 +1,4 @@
-package publice
+package pubgo
 
 type ResultDef struct {
 	ErrCode int
